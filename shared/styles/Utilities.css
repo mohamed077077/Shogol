@@ -1,0 +1,9 @@
+
+
+.action-btn {
+    @apply w-36 xl:w-40 h-11 hover:scale-105 rounded-lg items-center justify-center cursor-pointer transition-colors  font-normal text-base text-text-inverse;
+}
+
+.action-text {
+    @apply font-normal text-base text-primary hover:underline
+}
